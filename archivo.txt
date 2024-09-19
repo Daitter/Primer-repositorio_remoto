@@ -1,0 +1,4 @@
+Primer contenido del archivo
+Segunda linea agregada de al rama2
+Segunda linea agregada desde la rama1
+Tercera linea agregada desde la rama1
